@@ -1,5 +1,5 @@
 {
-  "name": "react-essentials-deep-dive-tic-tac-toe-start",
+  "name": "react-tic-tac-toe-game",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
